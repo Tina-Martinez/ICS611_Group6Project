@@ -1,0 +1,171 @@
+[{
+  "_id": "603f31f1d62f01996fa172b4",
+  "_partition": "user=603f31f1d62f01996fa172b3",
+  "name": "System@gmail.com",
+  "canReadPartitions": [
+    "user=603f31f1d62f01996fa172b3"
+  ],
+  "canWritePartitions": [
+    "project=603f31f1d62f01996fa172b3"
+  ],
+  "memberOf": [
+    {
+      "name": "My Project",
+      "partition": "project=603f31f1d62f01996fa172b3"
+    }
+  ]
+},
+  {
+    "_id": "603f31f1d62f01996fa172b6",
+    "_partition": "user=603f31f1d62f01996fa172b3",
+    "name": "L12@gmail.com",
+    "canReadPartitions": [
+      "user=603f31f1d62f01996fa172b3"
+    ],
+    "canWritePartitions": [
+      "project=603f31f1d62f01996fa172b3"
+    ],
+    "memberOf": [
+      {
+        "name": "My Project",
+        "partition": "project=603f31f1d62f01996fa172b3"
+      }
+    ]
+  },
+  {
+    "_id": "603f31f1d62f01996fa172b5",
+    "_partition": "user=603f31f1d62f01996fa172b3",
+    "name": "king@gmail.com",
+    "canReadPartitions": [
+      "user=603f31f1d62f01996fa172b3"
+    ],
+    "canWritePartitions": [
+      "project=603f31f1d62f01996fa172b3"
+    ],
+    "memberOf": [
+      {
+        "name": "My Project",
+        "partition": "project=603f31f1d62f01996fa172b3"
+      }
+    ]
+  },
+  {
+    "_id": "603f31f1d62f01996fa172b7",
+    "_partition": "user=603f31f1d62f01996fa172b3",
+    "name": "spud@gmail.com",
+    "canReadPartitions": [
+      "user=603f31f1d62f01996fa172b3"
+    ],
+    "canWritePartitions": [
+      "project=603f31f1d62f01996fa172b3"
+    ],
+    "memberOf": [
+      {
+        "name": "Project 1",
+        "partition": "project=603f31f1d62f01996fa172b3"
+      }
+    ]
+  },
+  {
+    "_id": "603f31f1d62f01996fa172b8",
+    "_partition": "user=603f31f1d62f01996fa172b3",
+    "name": "sophie@gmail.com",
+    "canReadPartitions": [
+      "user=603f31f1d62f01996fa172b3"
+    ],
+    "canWritePartitions": [
+      "project=603f31f1d62f01996fa172b3"
+    ],
+    "memberOf": [
+      {
+        "name": "My Project 2",
+        "partition": "project=603f31f1d62f01996fa172b3"
+      }
+    ]
+  },
+  {
+    "_id": "603f31f1d62f01996fa172b2",
+    "_partition": "user=603f31f1d62f01996fa172b3",
+    "name": "nino@gmail.com",
+    "canReadPartitions": [
+      "user=603f31f1d62f01996fa172b3"
+    ],
+    "canWritePartitions": [
+      "project=603f31f1d62f01996fa172b3"
+    ],
+    "memberOf": [
+      {
+        "name": "My Project 2",
+        "partition": "project=603f31f1d62f01996fa172b3"
+      }
+    ]
+  },
+  {
+    "_id": "603f31f1d62f01996fa172b12",
+    "_partition": "user=603f31f1d62f01996fa172b3",
+    "name": "her@gmail.com",
+    "canReadPartitions": [
+      "user=603f31f1d62f01996fa172b3"
+    ],
+    "canWritePartitions": [
+      "project=603f31f1d62f01996fa172b3"
+    ],
+    "memberOf": [
+      {
+        "name": "My Project",
+        "partition": "project=603f31f1d62f01996fa172b3"
+      }
+    ]
+  },
+  {
+    "_id": "603f31f1d62f01996fa172b16",
+    "_partition": "user=603f31f1d62f01996fa172b3",
+    "name": "srilakshmi@gmail.com",
+    "canReadPartitions": [
+      "user=603f31f1d62f01996fa172b3"
+    ],
+    "canWritePartitions": [
+      "project=603f31f1d62f01996fa172b3"
+    ],
+    "memberOf": [
+      {
+        "name": "My Project 2",
+        "partition": "project=603f31f1d62f01996fa172b3"
+      }
+    ]
+  },
+  {
+    "_id": "603f31f1d62f01996fa172b63",
+    "_partition": "user=603f31f1d62f01996fa172b3",
+    "name": "ali@gmail.com",
+    "canReadPartitions": [
+      "user=603f31f1d62f01996fa172b3"
+    ],
+    "canWritePartitions": [
+      "project=603f31f1d62f01996fa172b3"
+    ],
+    "memberOf": [
+      {
+        "name": "Project 1",
+        "partition": "project=603f31f1d62f01996fa172b3"
+      }
+    ]
+  },
+  {
+    "_id": "603f31f1d62f01996fa172b83",
+    "_partition": "user=603f31f1d62f01996fa172b3",
+    "name": "meena@gmail.com",
+    "canReadPartitions": [
+      "user=603f31f1d62f01996fa172b3"
+    ],
+    "canWritePartitions": [
+      "project=603f31f1d62f01996fa172b3"
+    ],
+    "memberOf": [
+      {
+        "name": "Project 1",
+        "partition": "project=603f31f1d62f01996fa172b3"
+      }
+    ]
+  }
+]
